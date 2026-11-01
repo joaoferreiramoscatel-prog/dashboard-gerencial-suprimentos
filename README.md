@@ -1,27 +1,27 @@
 
 # 📊 Dashboard Gerencial de Suprimentos
 
-## 📸 Visualização do Dashboard
+## Visualização do Dashboard
 
 ![Dashboard Gerencial de Suprimentos](dashboard-gerencial-suprimentos.png)
 
 **Projeto de Business Intelligence | Power BI • Power Query • DAX**
 
-## 🎯 Objetivo
+## Objetivo
 Desenvolver um dashboard interativo para analisar compras, fornecedores, obras e o status dos pedidos, apoiando decisões gerenciais na área de suprimentos.
 
-## 🧩 Problema de negócio
+## Problema de negócio
 Dados de compras distribuídos em diferentes planilhas dificultam o acompanhamento dos pedidos, a identificação de inconsistências e a análise de desempenho operacional.
 
 O projeto simula a consolidação dessas informações em uma solução única de BI.
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 - **Excel:** bases de dados de origem.
 - **Power Query:** limpeza, transformação, consolidação e auditoria.
 - **Power BI:** modelagem e visualização de dados.
 - **DAX:** criação de indicadores e medidas dinâmicas.
 
-## ⚙️ Etapas do desenvolvimento
+## Etapas do desenvolvimento
 1. Importação e tratamento das bases de dados.
 2. Identificação de duplicidades e informações ausentes.
 3. Consolidação dos pedidos e cadastro de fornecedores.
