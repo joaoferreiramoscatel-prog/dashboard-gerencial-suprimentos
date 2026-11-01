@@ -63,5 +63,36 @@ O ticket médio apresentado considera o total de pedidos registrados, inclusive 
 **João Vitor Moscatel Ferreira**
 
 [LinkedIn](https://www.linkedin.com/in/joaovitor-moscatel)
+
+## 🔄 Como reproduzir o projeto
+
+### 1. Baixar os arquivos
+
+Na página principal do repositório, clique em **Code → Download ZIP** e extraia os arquivos no computador.
+
+### 2. Abrir o dashboard
+
+Instale o Power BI Desktop e abra o arquivo `PROJETO 01 - DASHBOARD GERENCIAL DE SUPRIMENTOS.pbix`.
+
+### 3. Configurar as fontes Excel
+
+No Power BI Desktop, acesse **Transformar dados → Configurações da fonte de dados** e atualize os caminhos dos arquivos locais. Se necessário, altere o caminho na etapa **Fonte** das consultas do Power Query.
+
+Os quatro arquivos Excel estão disponíveis na pasta `dados/`:
+
+- `PEDIDOS_AULA_01.xlsx`
+- `PEDIDOS_AULA_02.xlsx`
+- `PEDIDOS_AULA_02_PARTE 02.xlsx`
+- `CADASTRO_FORNECEDORES.xlsx`
+
+A consulta `PEDIDOS_ANTIGOS_3` utiliza `PEDIDOS_ANTIGOS_2` como referência interna e não exige um arquivo adicional.
+
+### 4. Atualizar e conferir
+
+Clique em **Fechar e Aplicar** e, depois, em **Atualizar** no Power BI Desktop.
+
+Na base de referência, os resultados esperados são **15 pedidos**, **R$ 37.000,00 em compras** e **4 fornecedores**.
+
+> **Observação:** a atualização foi validada no ambiente de desenvolvimento. A reprodução em outro computador ainda não foi testada. Os arquivos contêm dados fictícios.
   
 
