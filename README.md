@@ -1,6 +1,10 @@
 
 # 📊 Dashboard Gerencial de Suprimentos
 
+## 📸 Visualização do Dashboard
+
+![Dashboard Gerencial de Suprimentos](dashboard-gerencial-suprimentos.png)
+
 **Projeto de Business Intelligence | Power BI • Power Query • DAX**
 
 ## 🎯 Objetivo
